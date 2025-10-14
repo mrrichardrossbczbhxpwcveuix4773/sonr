@@ -119,3 +119,4 @@ All functions support both local and Docker execution modes:
 - Use `run_binary()` wrapper for command execution
 - Mount volumes correctly for Docker containers
 - Handle TTY and interactive mode appropriately
+<!-- Auto-update: 2025-10-14T14:52:07.418389 -->
